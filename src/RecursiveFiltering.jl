@@ -1,6 +1,6 @@
 module RecursiveFiltering
 
-using KernelDensityEstimate
+using KernelDensityEstimate, TransformUtils
 
 export
   SysState,

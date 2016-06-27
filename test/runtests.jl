@@ -1,4 +1,4 @@
-import Base.test
+using Base.Test
 using RecursiveFiltering
 
 @test true
